@@ -8,9 +8,9 @@ ejercicio
 stack = []
 #push
 
-stack.append("1")
-stack.append("2")
 stack.append("3")
+stack.append("2")
+stack.append("1")
 
 #pop
 stack_item = stack[len(stack)-1]
