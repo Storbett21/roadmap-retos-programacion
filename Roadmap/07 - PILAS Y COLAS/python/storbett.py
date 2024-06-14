@@ -8,7 +8,7 @@ ejercicio
 stack = []
 #push
 
-stack.append("1it")
+stack.append("1")
 stack.append("2")
 stack.append("3")
 
