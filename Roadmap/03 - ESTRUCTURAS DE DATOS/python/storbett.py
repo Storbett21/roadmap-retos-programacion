@@ -1,7 +1,7 @@
 #listas
 
 
-mi_lista = ["mouredev", "simon", "adrimar"]
+mi_lista = ["mourede", "simon", "adrimar"]
 print(mi_lista)
 
 mi_lista.append("loengris") #insercion
